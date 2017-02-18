@@ -1,0 +1,26 @@
+[
+    {
+        "imgURL": "",
+        "productName": "金鸡报晓生肖金条20g",
+        "totalPrice": "5,528.00",
+        "weight": "20",
+        "unitPrice": "266.4",
+        "tips": ["可回购","赠送5528金豆"]
+    },
+    {
+        "imgURL": "",
+        "productName": "金鸡报晓生肖金条10g",
+        "totalPrice": "2,764.00",
+        "weight": "10",
+        "unitPrice": "266.4",
+        "tips": ["可回购","赠送2764金豆"]
+    },
+    {
+        "imgURL": "",
+        "productName": "金鸡报晓生肖金条50g",
+        "totalPrice": "13,820.00",
+        "weight": "50",
+        "unitPrice": "266.4",
+        "tips": ["赠送13820金豆"]
+    }
+]

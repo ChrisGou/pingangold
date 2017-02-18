@@ -4,3 +4,7 @@
   摇一摇赢金豆
   炼金功能
   实物金购买
+
+- npm install 后运行项目
+- android : react-native run-android
+- ios : react-native run-ios 或打开xcode工程运行

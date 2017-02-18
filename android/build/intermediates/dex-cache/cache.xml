@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-c32612d703d51fd5220d1bca89bd5556f77ef90e.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-2ba7a3e99464d88214c11eb4021594cf0899f576.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-7ecef060ecf483299116cf88840f8a19cccc4580.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-cbeb0bb4f314758028eedb1cf8fcc37ebcc71841.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-dd09162dc439f06a29ad86e6c2ef9770515d539b.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-3d33bc584c164abd0168e88bb2d2e34ec1b6e655.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d945c803672a5134e333bf1eadf6fffa78609300">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-1a7b856bd92dba1a5823ba159a09809bb400c05c.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-05663fca7f52e6ca821c54781cbeee89e088a183.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.squareup/seismic/1.0.2/41252e3eff887b3ab9a2ef9e4e9218f999d85b68/seismic-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41252e3eff887b3ab9a2ef9e4e9218f999d85b68">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/seismic-1.0.2-8ed7981f9633a7ffc36ecdf38824f3ba5c7e719a.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-e58e704c076e1330b85523ed990139fb62318e09.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-14d70461a0407906fd7c19ef6d1854512edf0ab7.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-d268a6cb581b1b2f3068db46b3872c0875ef3325.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-ffe7ea0415fc83bf419518ef1837511b1afde50a.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-badb675da78e2a1b0f35e7e9675013c68d593b24.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-169b5bb0dd7a5eda335ee799d2364e6b39eda93a.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-84694b1b289ee00c708c9bc3e4efb2796be83a49.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-2f6917f2863fa354b827ced8d7466fa6e192eb91.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-d2a45ab83c6b58d2162c0e49202be44282ca26f2.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-e9c0519bfa26f685dee591e3741e54db9751d111.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-0941f87810d2be7d48bf4cb53847dfd1f812a97e.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-1ebda5bae0e6e679937f559e1266bec9968c1016.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/PingAnJin/react-native-shake-event/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="501db47ff61cd7981e9eb88e2ca2562d4a1e633a">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-543e4cdea60b802dba928b76098ae217cace11be.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-8a2d4fbb0d94e028dc0f84e69580cbd6d698711e.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8898a319b97e8e4e23ad4db38e25f9cd1e7554df">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-c1a4b6840e0fa194249bbfb534aa2de2f41ff8aa.jar" />
+    </item>
+    <item
+        jar="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/classes-b1ce5a5ea2bfef5a8f5d154d1e1b06b82ab28cb0.jar" />
+    </item>
+    <item
+        jar="/Users/gou/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-a073f7f718443f7e9e18c163fdb6e0b61983aa8c.jar" />
+    </item>
+    <item
+        jar="/Users/gou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/gou/pingan/PingAnJin/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-767ad710dcea532e93cb1ae5b08dcb5a05017df6.jar" />
+    </item>
+
+</items>
